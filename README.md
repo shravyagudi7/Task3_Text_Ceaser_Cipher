@@ -28,7 +28,7 @@ Customizable shift value for encryption and decryption.
     -Tkinter (included in Python's standard library)
 
 # Installation
-  **1. Clone the repository** : git clone [https://github.com/shravyagudi7/Task3_Text_Caesar-Cipher.git](https://github.com/shravyagudi7/Task3_Text_Ceaser_Cipher_Technique.git)
+  **1. Clone the repository** : git clone https://github.com/shravyagudi7/Task3_Text_Ceaser_Cipher
   
   **2. Change to the project directory** : cd Task3_Text_Caesar-Cipher
 
