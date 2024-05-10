@@ -1,15 +1,16 @@
 # <h2 style="color:red; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Caesar Cipher Encryption/Decryption GUI</h2>
 
 Welcome to the Caesar Cipher Encryption/Decryption GUI project! This application allows you to encrypt and decrypt messages using the classic Caesar Cipher technique.
+
 **Table of Contents**
 
-1.Introduction
-2.Features
-3.Requirements
-4.Installation
-5.Usage
-6.Contributing
-7.License
+    1.Introduction
+    2.Features
+    3.Requirements
+    4.Installation
+    5.Usage
+    6.Contributing
+    7.License
 
 
 # Introduction
