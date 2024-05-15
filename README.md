@@ -35,12 +35,17 @@ Customizable shift value for encryption and decryption.
   **3. Run the application**: python Task3_Text_Caesar-Cipher.py
 
 # Usage
-1.Enter the message you want to encrypt or decrypt in the "Enter Message" field.
-2.Enter the desired shift value in the "Enter Shift" field.
-3.Click the "Encrypt" button to encrypt the message or the "Decrypt" button to decrypt the message.
-4.The encrypted or decrypted message will be displayed in the "Result" field.
-Contributing
+    1.Enter the message you want to encrypt or decrypt in the "Enter Message" field.
+    2.Enter the desired shift value in the "Enter Shift" field.
+    3.Click the "Encrypt" button to encrypt the message or the "Decrypt" button to decrypt the message.
+    4.The encrypted or decrypted message will be displayed in the "Result" field.
+    Contributing
+
+
+
 5.**Contributions are welcome!** If you have any suggestions, improvements, or bug fixes, please submit a pull request. Make sure to follow the project's coding style and guidelines.
+
+
 
 # License
 This project is licensed under the MIT License.
